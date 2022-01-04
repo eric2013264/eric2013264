@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/10005573/148009431-7cfb9369-648a-4c57-ad16-42b616b41130.jpg width='375' height='230'>
 
 <!--
 **eric2013264/eric2013264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
